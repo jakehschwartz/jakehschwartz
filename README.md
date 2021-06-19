@@ -5,6 +5,7 @@ Engineering Manager at @politear. Interested in data pipeline and backend develo
 [I am hiring a Scala/Java Engineer!](https://jobs.lever.co/zignallabs/3480cee3-01c1-4a39-b7b0-58b04eaad2d7)
 
 Follow me on social:
+
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jakehschwartz)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakehschwartz)
 [![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/story/399306)
