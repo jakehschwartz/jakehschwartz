@@ -1,6 +1,6 @@
 ## I am [**Jake Schwartz**](https://jakehschwartz.com/)
 
-Engineering Manager at [Zignal Labs](https://www.zignallabs.com). Interested in data pipeline and backend development with Scala, search using Elasticsearch, and food trucks!
+Software Architect at [Zignal Labs](https://www.zignallabs.com). Interested in data pipeline and backend development with Scala, search using Elasticsearch, and food trucks!
 
 Follow me on social:
 
